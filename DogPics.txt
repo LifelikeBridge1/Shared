@@ -1,0 +1,4 @@
+pomeranians
+dachshunds
+husky
+mutts
